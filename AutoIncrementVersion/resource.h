@@ -44,3 +44,7 @@
 //VALUE "OriginalFilename", ORIGINAL_FILENAME
 //VALUE "ProductName",		PRODUCT_NAME
 //VALUE "ProductVersion",	VERSION_STR
+
+//Command line: AutoIncrementVersion --build $(ProjectDir)
+//Description: Auto increment version
+
