@@ -30,7 +30,7 @@ public:
 private:
 	std::string m_sourceCodeDir;
 	std::vector<std::string> m_lines;
-	std::vector<int> m_versionLines;
+	std::vector<size_t> m_versionLines;
 	int m_major, m_minor, m_revision, m_build;
 	
 	enum
